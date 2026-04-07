@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/web/sites/*/files/
+/web/sites/*/private/
+/web/sites/*/settings.local.php
+.env
+.DS_Store
